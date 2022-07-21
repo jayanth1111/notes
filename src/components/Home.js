@@ -11,8 +11,7 @@ export default function Home() {
             <div className='h-left1'>
                 <span>Hii! I am </span>
                 <span>Jayanth Reddy Aluru</span>
-                <span>Descriptionxcfgvb vgbn bjjcfvghbcvgbycvbtvbh
-                    v bn ncvb n
+                <span>I seek to obtain an Internship by looking into my profile , which had a strong foundation in programming language and problem- solving. I also have a lot of interest in web development, so had some work on web applications. I developed excellent interpersonal skills, teamwork, and communication skills by working with my fellow classmates at the university.
                 </span>
             </div>
             <div className='h-icons'>
