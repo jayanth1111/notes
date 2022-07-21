@@ -1,0 +1,17 @@
+
+{
+    "education":[{"id":1,"degree":"Btech-CSE","title":"Bennett University","board":"","score":"7.9/10"},
+    {"id":2,"degree":"Intermediate-MPC","title":"Velociity","board":"TSBIE","score":"970/1000"},
+    {"id":3,"degree":"Class X","title":"Ridge School","board":"CBSE","score":"10/10"}
+],
+     "projects":[{"id":1,"title":"Food.jr","link":"https://main--aquamarine-sfogliatella-a2945e.netlify.app/","description":"Food.jr is a web application, where a person can explore restaurants and select items from his favourite restaurant and can add them to the cart","tools":"React js,css,javascript"},
+     {"id":2,"title":"Farm share","link":"https://github.com/jayanth1111/Farm_Share","description":"Farm Share is an android app developed to help farmers overcome the problem of lack of machinery or agricultural equipment. Lessee ( farmers who cannot afford to buy agricultural equipment) can take equipment as rent from Lessor ( farmers who can afford to buy equipment) and pay them. So, in this way both the farmers get benefited.","tools":"Android studio,java,firebase"},
+     {"id":3,"title":"Sales predictor","link":"https://github.com/jayanth1111/sales_pred","description":"This project predicts the sales of big marts using some machine learning algorithms","tools":"python,xgbooster"},
+     {"id":4,"title":"Others","link":"","description":"Small works like todo lists, mario game, pingpong. These are created using html,css and javascript","tools":"Html,Css,Javascript"}
+    ],
+    "certificates":[{"id":1,"title":"Microoft Azure Fundamental Certificate"},
+    {"id":2,"title":"Microoft Azure Ai Fundamentals"},
+    {"id":3,"title":"Cisco Computer Networks certificate"},
+    {"id":4,"title":"Microoft Azure Administrator[AZ-104]"}
+]
+}

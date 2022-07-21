@@ -1,0 +1,60 @@
+.education{
+    padding: 0 3rem 0 3rem ;
+    display: flex;
+    height: 25vh;
+    margin-bottom: 8rem;
+    margin-top: 9rem;
+    margin-bottom: 13rem;
+
+}
+.e-left{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+
+}
+.e-left>:nth-child(1){
+    color: rgb(28, 153, 220);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.e-button{
+    width: 8rem;
+
+    margin-top: 5rem;
+
+}
+.e-blur1{
+    top: 13rem;
+    left: -18rem;
+}
+.e-blur2{
+    left: 14rem;
+    top: 8rem;
+}
+.cards{
+    position: relative;
+    
+}
+.cards>*{
+    position: absolute;
+}
+@media screen and (max-width: 480px) {
+    .education {
+      margin-top: 0;
+      flex-direction: column;
+      gap: 5rem;
+      height: 66rem;
+      padding: 0;
+    }
+  
+    .cards {
+      display: flex;
+      flex-direction: column;
+      gap: 17rem;
+    }
+    .cards > * {
+      position: static;
+    }
+  }

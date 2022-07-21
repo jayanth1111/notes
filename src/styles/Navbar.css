@@ -1,0 +1,45 @@
+.navbar{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+
+}
+.n-left{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+}
+.n-left1{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.n-right{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+
+}
+.n-right-list{
+    flex: 10;
+
+}
+.n-right-list>ul{
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+}
+.n-right-list>ul>li:hover{
+    cursor: pointer;
+    color: rgb(28, 153, 220);
+}
+.n-button{
+    flex: 2;
+}
+@media screen and (max-width: 480px) {
+    .n-right-list {
+      display: none;
+    }
+  }
